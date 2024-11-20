@@ -1,4 +1,4 @@
-package com.taller1.app2.factory;
+package com.talleruno.app2.factory;
 
 import com.talleruno.app2componenttxt.DocumentoTexto;
 import com.talleruno.app2componenthtml.DocumentoHtmlImp;

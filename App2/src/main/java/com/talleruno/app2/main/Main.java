@@ -1,6 +1,6 @@
-package com.taller1.app2;
+package com.talleruno.app2.main;
 
-import com.taller1.app2.factory.Fabrica;
+import com.talleruno.app2.factory.Fabrica;
 import com.talleruno.app2interfaces.App2Interfaces.documentos.Documento;
 
 public class Main {
